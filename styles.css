@@ -1,0 +1,17 @@
+header{
+    color: blue;
+    border-style: solid;
+    border-radius: 5px;
+}
+#welcome{
+    background-color: red;
+}
+#images{
+    border-style: solid;
+    background-color: black;
+}
+footer{
+    color:blue;
+    border-style: solid;
+    border-radius: 5px;
+}
